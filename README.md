@@ -8,8 +8,10 @@ arg1 is list of stopwords, arg2 is file or website with text in txt utf8-format 
 
 Example of how to run program:
 $ python3 topmost.py eng_stopwords.txt bravenewworld.txt 15
+
 Line above will print out the 15 most used words in brave new world that is not included in the file eng_stopwords.
 
 Alternatively:
+
 $ python3 topmost.py eng_stopwords.txt https://www.gutenberg.org/cache/epub/69823/pg69823.txt 15
 for an example of a website.
