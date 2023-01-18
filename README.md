@@ -2,7 +2,7 @@
 Finds the top x most used words in a txt or from a gutenberg https. Made for assignment in Summer python course on Gothenburg University 2020.
 
 How to run
-python3 topmost.py <arg1> <arg2> <arg3>\
+python3 topmost.py arg1 arg2 arg3\
 arg1 is list of stopwords, arg2 is file or website with text in txt utf8-format and arg3 is how many of the topwords to print\
 (eng_stopwords.txt is included)
 
